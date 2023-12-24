@@ -1,0 +1,7 @@
+*.pyc
+.log
+*.parquet
+data/raw/normalized_data
+data/raw/3.normalized_data.zip
+data/raw/training_data.csv.gz
+_bak
